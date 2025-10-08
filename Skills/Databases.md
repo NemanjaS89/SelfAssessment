@@ -1,19 +1,19 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery h
-  - Database scalability h
-  - Relational databases h
-  - Key-value store k
+  - Backup and recovery: 👂 heard
+  - Database scalability: 👂 heard
+  - Relational databases: 👂 heard
+  - Key-value store: 🎓 known
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
-  - Navigational databases h
+  - Navigational databases: 👂 heard
   - Hierarchical databases
   - In-memory databases
   - Inverted index
@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys h
-  - Foreign keys h
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
   - Transactions
   - Views
   - Subqueries
@@ -36,20 +36,20 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
-  - `GROUP BY` k
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
   - `HAVING`
   - `EXISTS`
-  - `JOIN` k
-  - `INNER JOIN` k
-  - `LEFT JOIN` k
-  - `RIGHT JOIN` k
+  - `JOIN`: 🎓 known
+  - `INNER JOIN`: 🎓 known
+  - `LEFT JOIN`: 🎓 known
+  - `RIGHT JOIN`: 🎓 known
   - `UNION`
   - `DISTINCT`
   - `WHERE`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL h
-  - MariaDB h
-  - MS SQL Server h
-  - Redis h
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 👂 heard
   - Rabbit
-  - MongoDB h
+  - MongoDB: 👂 heard
   - Memcached
-  - Riak h
+  - Riak: 👂 heard
   - DB2
-  - SQLite h
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization h
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard
