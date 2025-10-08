@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` 
+  - `NaN` k
   - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `null` k
+  - `this` k
+  - `instanceof` k
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` k
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators k
   - Async generator
   - Async iterator
   - Chaining
@@ -29,15 +29,15 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters u
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Equality operators u
+  - Logical operators u
+  - Logical Assignment u
+  - Bitwise operators u
+  - Ternary operator u
+  - `void` u
   - `yield`
   - `await`
   - Template literal
@@ -54,45 +54,45 @@
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields k
+  - Static class fields k
+  - Private class fields k
+  - Private class methods k
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
   - `for..of`
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `throw` u
+  - `break` u
+  - `continue` u
+  - `import` u
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch` u
+  - `switch` u
+  - `class` u
+  - `extends` u
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function h
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration u
+  - Function expression u
+  - Default parameters h
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` u
+  - `Map` u
+  - `Set` u
   - `WeakMap`
   - `WeakSet`
   - Typed arrays

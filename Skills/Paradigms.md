@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming h
+  - Imperative programming u
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming h
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages h
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box
-  - Information hiding
+  - Black box h
+  - Information hiding h
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method k
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
   - Hidden class
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
@@ -60,15 +60,15 @@
 - SOLID
   - Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
+  - Liskov substitution principle (LSP) h
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton h
+  - Factory Method h
+  - Abstract Factory h
   - Adapter
-  - Observer
+  - Observer h
   - Strategy
   - Facade
   - Proxy

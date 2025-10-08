@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns h
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection h
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -18,7 +18,7 @@
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic
+  - Framework-agnostic h
   - Code coverage
   - Cohesion
   - Coupling
@@ -30,14 +30,14 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) h
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -60,7 +60,7 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS h
   - FaaS clouds
   - Serverless
   - Vendor lock-in

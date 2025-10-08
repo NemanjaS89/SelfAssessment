@@ -1,19 +1,19 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
+  - Backup and recovery h
+  - Database scalability h
+  - Relational databases h
+  - Key-value store k
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
-  - Navigational databases
+  - Navigational databases h
   - Hierarchical databases
   - In-memory databases
   - Inverted index
@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys h
+  - Foreign keys h
   - Transactions
   - Views
   - Subqueries
@@ -36,20 +36,20 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` k
+  - `GROUP BY` k
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `JOIN` k
+  - `INNER JOIN` k
+  - `LEFT JOIN` k
+  - `RIGHT JOIN` k
   - `UNION`
   - `DISTINCT`
   - `WHERE`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
-  - MariaDB
-  - MS SQL Server
-  - Redis
+  - PostgreSQL h
+  - Oracle h
+  - MySQL h
+  - MariaDB h
+  - MS SQL Server h
+  - Redis h
   - Rabbit
-  - MongoDB
+  - MongoDB h
   - Memcached
-  - Riak
+  - Riak h
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data h
+  - Data analysis h
+  - AI tools h
+  - Cloud databases h
+  - Data Visualization h

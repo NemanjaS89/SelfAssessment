@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch` u
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O h
+  - Thread pool h
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,33 +13,33 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions k
+  - Dead locks k
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming h
   - Actor Model
-  - Thread
-  - Process
+  - Thread k
+  - Process k
 - Async contracts
-  - Callbacks
+  - Callbacks h
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await h
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event h
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream h
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware h
+  - Locks h
 - Async adapters and utils
   - callbackify
   - promisify
