@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop
-  - `try..catch` u
+  - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O h
-  - Thread pool h
+  - Async I/O: 👂 heard
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,33 +13,33 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions k
-  - Dead locks k
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread k
-  - Process k
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks h
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await h
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event h
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream h
+  - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware h
-  - Locks h
+  - Middleware: 👂 heard
+  - Locks: 👂 heard
 - Async adapters and utils
   - callbackify
   - promisify

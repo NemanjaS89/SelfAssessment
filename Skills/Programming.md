@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model u
-  - Modeling h
-  - Subject domain k
-  - Algorithm u
-  - Syntax u
-  - Semantics k
-  - Abstraction u
-  - Paradigm k
-  - Programm u 
-  - Programming paradigm k
-  - Programming language u
-  - Contract 
-  - Module u
-  - Library u
-  - Package u
-  - Component u
-  - Framework u
-  - Platform u
-  - Source code u
-  - Object code u
-  - Machine code k
+  - Model: 🖐️ used
+  - Modeling: 👂 heard
+  - Subject domain: 🎓 known
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
+  - Abstraction: 🖐️ used
+  - Paradigm: 🎓 known
+  - Programm: 🖐️ used
+  - Programming paradigm: 🎓 known
+  - Programming language: 🖐️ used
+  - Contract
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🖐️ used
+  - Platform: 🖐️ used
+  - Source code: 🖐️ used
+  - Object code: 🖐️ used
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering k
-  - Decomposition k
-  - Control flow u
-  - Data flow u
-  - Code reuse u
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
+  - Control flow: 🖐️ used
+  - Data flow: 🖐️ used
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY) u
-  - KISS principle u
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar 
-  - Literal u
-  - Expression u
-  - Heap k
-  - Function u
-  - Procedure u
-  - Method u
-  - Class u
-  - Prototype k
-  - Event k
-  - Type u
-  - Flag u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 🎓 known
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🎓 known
+  - Event: 🎓 known
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
   - Lexical scope
-  - Code block u
-  - Conditions u
-  - Loops u
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression u
-  - Interface u
-  - Namespaces u
-  - Call stack u
-  - Naming conventions u
-  - Coding conventions u
-  - Camel case u
-  - Snake case u
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
+  - Namespaces: 🖐️ used
+  - Call stack: 🖐️ used
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
   - Trailing commas
-  - Return early u
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types u
-  - Reference types u
-  - Type systems u
-  - Strong typing u
-  - Weak typing u
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
+  - Type systems: 🖐️ used
+  - Strong typing: 🖐️ used
+  - Weak typing: 🖐️ used
   - Duck typing
-  - Static typing u
-  - Dynamic typing u
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,119 +81,119 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature u
-  - Argument u
-  - Parameter u
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression h
-  - Side effects h
+  - Lambda expression: 👂 heard
+  - Side effects: 👂 heard
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion u
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
-  - Listener k
-  - Composition k
-  - Pipe h
+  - Listener: 🎓 known
+  - Composition: 🎓 known
+  - Pipe: 👂 heard
   - Memoize
-  - Wrapper h
+  - Wrapper: 👂 heard
   - Functor
-  - Monad h
-  - Monoid h
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure u
-  - Record u
-  - Enum u
-  - Instance u
-  - Object u
-  - Collection u
-  - Set u
-  - Hash table u
-  - Linked list u
-  - Doubly list u
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
+  - Enum: 🖐️ used
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
   - Unrolled list
-  - Circular list u
-  - Queue u
-  - Stack u
+  - Circular list: 🖐️ used
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
   - Deque
-  - Tree u
-  - Graph u
-  - Iterator u
-  - Mutable state h
-  - Immutable state h
-  - Serialization k
-  - String parsing u
-  - JSON k
-  - JSON5 
-  - YAML k
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
+  - Iterator: 🖐️ used
+  - Mutable state: 👂 heard
+  - Immutable state: 👂 heard
+  - Serialization: 🎓 known
+  - String parsing: 🖐️ used
+  - JSON: 🎓 known
+  - JSON5
+  - YAML: 🎓 known
 - Networking
-  - DNS k
-  - CDN k
+  - DNS: 🎓 known
+  - CDN: 🎓 known
   - CORS
-  - IPv4 u
-  - IPv6 k
-  - NAT k
-  - URL u 
+  - IPv4: 🖐️ used
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter h
+  - Linter: 👂 heard
   - Polyfill
-  - Interpreter u
+  - Interpreter: 🖐️ used
   - Linker
-  - Dynamic linking h
-  - Static linking h
-  - Runtime k
-  - Virtual machine k
+  - Dynamic linking: 👂 heard
+  - Static linking: 👂 heard
+  - Runtime: 🎓 known
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization h
-  - Debugger u
-  - Tracing k
-  - Garbage collection u
-  - Refactoring u
-  - Code review k
-  - Exception u
-  - Unittesting u
-  - git u
-  - Github u
-  - Docker h
-  - Kubernetes h
-  - GCC u
+  - Containerization: 👂 heard
+  - Debugger: 🖐️ used
+  - Tracing: 🎓 known
+  - Garbage collection: 🖐️ used
+  - Refactoring: 🖐️ used
+  - Code review: 🎓 known
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
+  - GCC: 🖐️ used
   - LLVM
 - Antipatterns
-  - Magic numbers h
-  - Hard code u
-  - Soft code u
-  - Cryptic code u
+  - Magic numbers: 👂 heard
+  - Hard code: 🖐️ used
+  - Soft code: 🖐️ used
+  - Cryptic code: 🖐️ used
   - Improbability factor
-  - Accidental complexity u
+  - Accidental complexity: 🖐️ used
   - Action at a distance
-  - Spaghetti u
-  - Silver bullet u
+  - Spaghetti: 🖐️ used
+  - Silver bullet: 🖐️ used
   - Not invented here
-  - Dead code k
-  - Unreachable code u
-  - Duplicate code u
+  - Dead code: 🎓 known
+  - Unreachable code: 🖐️ used
+  - Duplicate code: 🖐️ used
   - Premature optimization
   - Micro-optimization
-  - Nested loops u
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
-  - Long inheritance h
-  - Large class/file u
+  - Long inheritance: 👂 heard
+  - Large class/file: 🖐️ used
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case u
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -208,32 +208,32 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts k
-  - Drivers k
-  - Kernel k
+  - Interrupts: 🎓 known
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
-  - Virtual memory k
-  - File system k
-  - Linux u
-  - Unix h
-  - BSD h
-  - MacOS k
-  - Windows u
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
+  - Linux: 🖐️ used
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
-  - Embedded OS h
+  - Embedded OS: 👂 heard
 - Standards
-  - ASCII u
+  - ASCII: 🖐️ used
   - Escape sequence
   - RFC
   - IETF
   - IANA
-  - IEEE k
-  - Base64 k
+  - IEEE: 🎓 known
+  - Base64: 🎓 known
   - ECMA
   - ICANN
   - ISO
-  - MIME h
+  - MIME: 👂 heard
   - OWASP
-  - UTF-8 k
+  - UTF-8: 🎓 known
   - W3C
   - ODMG

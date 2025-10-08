@@ -37,10 +37,10 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support h
+  - HTTP/HTTPS support: 👂 heard
   - WebSockets for real-time communication
-  - TCP/UDP networking h
-  - SSL/TLS for secure connections h
+  - TCP/UDP networking: 👂 heard
+  - SSL/TLS for secure connections: 👂 heard
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
@@ -58,7 +58,7 @@
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
-  - CRUD operations h
+  - CRUD operations: 👂 heard
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
@@ -72,14 +72,14 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS) h
-  - Microservices architecture h
-  - Containerization with Docker h
-  - Kubernetes for orchestration h
-  - Serverless computing h
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
+  - Microservices architecture: 👂 heard
+  - Containerization with Docker: 👂 heard
+  - Kubernetes for orchestration: 👂 heard
+  - Serverless computing: 👂 heard
 - C# Development
   - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events) h
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
   - Reflection and dynamic programming
   - Data types and collections
   - Generics and extension methods
@@ -99,7 +99,7 @@
   - VB.NET syntax and language fundamentals
   - Event-driven programming
   - COM interop and P/Invoke
-  - XML and file handling h
+  - XML and file handling: 👂 heard
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin h
+  - .NET MAUI / Xamarin: 👂 heard
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity h
+  - Unity: 👂 heard
 - Web development
-  - ASP.NET Core h
+  - ASP.NET Core: 👂 heard
   - Blazor
   - Razor Syntax
-  - RESTful API development h
+  - RESTful API development: 👂 heard

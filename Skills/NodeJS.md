@@ -6,7 +6,7 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection k
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -67,24 +67,24 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) k
-  - TCP/SSL k
-  - UDP k
-  - TLS h
-  - Websocket h
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 👂 heard
+  - Websocket: 👂 heard
   - SSE
-  - HTTP/3 (QUIC) h
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
-  - REST h
+  - REST: 👂 heard
   - RPC
-  - Routing k
-  - DoS h
-  - DDoS h
+  - Routing: 🎓 known
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS k
-  - SQL injection h
+  - DNS: 🎓 known
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -92,8 +92,8 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing h
-  - CI/CD h
+  - Testing: 👂 heard
+  - CI/CD: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -102,12 +102,12 @@
   - Console
   - Inspector
 - Data access
-  - Data access layer h
-  - Repository h
-  - Active record h
+  - Data access layer: 👂 heard
+  - Repository: 👂 heard
+  - Active record: 👂 heard
   - Query builder
   - Object-Relational Mapping
-  - CRUD h
+  - CRUD: 👂 heard
   - DTO
 - Error handling and debugging
   - `Error`
