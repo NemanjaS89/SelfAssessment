@@ -2,12 +2,12 @@
 
 - Concepts
   - Model u
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Modeling h
+  - Subject domain k
+  - Algorithm u
+  - Syntax u
+  - Semantics k
+  - Abstraction u
   - Paradigm
   - Programm
   - Programming paradigm
